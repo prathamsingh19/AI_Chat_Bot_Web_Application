@@ -29,7 +29,7 @@ Welcome to the **AI Chatbot Application**! This project features a responsive ch
 
 ## 🌐 This Site is Live At
 
-You can try out the AI Chatbot Application live at: [visit](https://tinyurl.com/ai-chat-bot-pratham)
+You can try out the AI Chatbot Application live at: [visit](https://ai-chat-bot-pratham.vercel.app)
 
 
 
