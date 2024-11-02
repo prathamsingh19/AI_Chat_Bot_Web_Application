@@ -38,7 +38,6 @@ You can try out the AI Chatbot Application live at: [visit](https://ai-chat-bot-
 - **GitHub**: [visit](https://github.com/prathamsingh19)
 - **LinkedIn**: [visit](https://www.linkedin.com/in/prathamsingh19102003)
 - **Instagram**: [visit](https://instagram.com/prathamsingh.__)
-- **Portfolio**: [visit](https://tinyurl.com/prathamsingh) 
 
 
 
