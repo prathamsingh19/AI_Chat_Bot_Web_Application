@@ -47,7 +47,6 @@ Feel free to reach out to me:
 - Email: prathamsingh19102003@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/prathamsingh19102003](https://www.linkedin.com/in/prathamsingh19102003)
 - GitHub: [https://github.com/prathamsingh19](https://github.com/prathamsingh19)
-- Instagram: [https://www.instagram.com/prathamsingh.__/](https://www.instagram.com/prathamsingh.__/)
 
 ---
 
